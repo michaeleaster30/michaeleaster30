@@ -17,6 +17,8 @@
   - [WIndows Fundamentals 3)](https://tryhackme.com/room/windowsfundamentals3xzx)
   - [Wireshark: The basics)](https://tryhackme.com/room/wiresharkthebasics)
   - [Defensive Security Intro)](https://tryhackme.com/room/defensivesecurityintro)
+  - [Windows Forensics 1)](https://tryhackme.com/room/windowsforensics1)
+  - [Windows Forensics 2)](https://tryhackme.com/room/windowsforensics2)
 
 
 
