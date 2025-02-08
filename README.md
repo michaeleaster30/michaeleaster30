@@ -12,6 +12,7 @@
     
 - <b>TryHackme Journal </b>
   - [Offensive Security Intro)](https://tryhackme.com/r/dashboard)
+  - [Windows Fundamentals 1)](https://tryhackme.com/room/windowsfundamentals1xbx)
 
 
 
