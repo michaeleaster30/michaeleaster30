@@ -13,6 +13,10 @@
 - <b>TryHackme Journal </b>
   - [Offensive Security Intro)](https://tryhackme.com/r/dashboard)
   - [Windows Fundamentals 1)](https://tryhackme.com/room/windowsfundamentals1xbx)
+  - [Windows Fubndamentals 2)](https://tryhackme.com/room/windowsfundamentals2x0x)
+  - [WIndows Fundamentals 3)](https://tryhackme.com/room/windowsfundamentals3xzx)
+  - [Wireshark: The basics)](https://tryhackme.com/room/wiresharkthebasics)
+  - [Defensive Security Intro)](https://tryhackme.com/room/defensivesecurityintro)
 
 
 
