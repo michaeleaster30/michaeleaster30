@@ -19,6 +19,11 @@
   - [Defensive Security Intro)](https://tryhackme.com/room/defensivesecurityintro)
   - [Windows Forensics 1)](https://tryhackme.com/room/windowsforensics1)
   - [Windows Forensics 2)](https://tryhackme.com/room/windowsforensics2)
+  - [Splunk 101)](https://tryhackme.com/room/splunk101)
+  - [Splunk 2)](https://tryhackme.com/room/splunk2gcd5)
+  - [Splunk 3)](https://tryhackme.com/room/splunk3zs)
+  - [Incident handling with Splunk)](https://tryhackme.com/room/splunk201)
+  - [Intro to log Analysis)](https://tryhackme.com/room/introtologanalysis)
 
 
 
