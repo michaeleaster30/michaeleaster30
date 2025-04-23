@@ -9,6 +9,7 @@
   - [Tools of the Trade:Linux and SQL](https://www.coursera.org/account/accomplishments/verify/0SKSA0SCHH1O)
   - [Connect and Protect:Networks and Network Security](https://www.coursera.org/account/accomplishments/certificate/5ICUL6Y6STET)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Google CyberSecurity Certification](https://www.coursera.org/account/accomplishments/professional-cert/8CVATFKMIOIU)
     
 - <b>TryHackme Journal </b>
   - [Offensive Security Intro)](https://tryhackme.com/r/dashboard)
